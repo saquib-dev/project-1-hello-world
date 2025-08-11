@@ -79,7 +79,3 @@ project-1-hello-world/
 This is a simple project, but if you have ideas for improvements, feel free to open an issue or submit a pull request!
 
 ---
-
-## 📄 License
-
-This project is licensed under the ISC License.
