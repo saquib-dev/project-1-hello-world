@@ -26,7 +26,7 @@ Getting this project up and running is quick and easy.
 First, clone the project to your local machine using git.
 
 ```bash
-git clone [https://github.com/saquib-dev/project-1-hello-world.git](https://github.com/saquib-dev/project-1-hello-world.git)
+git clone [Simple Hello World App](https://github.com/saquib-dev/project-1-hello-world.git)
 ```
 
 ### **2. Navigate to the project directory**
