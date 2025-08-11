@@ -1,6 +1,6 @@
 # Simple Hello World App
 
-![Project Banner](https://via.placeholder.com/1200x400/007bff/ffffff?text=Hello+World+Project)
+![Project Banner](https://github.com/saquib-dev/project-1-hello-world/blob/main/project-1-hello-world/project-1-hello-world-output.png?raw=true)
 
 ### A foundational full-stack application to demonstrate basic client-server communication.
 
