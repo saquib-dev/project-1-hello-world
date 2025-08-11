@@ -1,0 +1,10 @@
+{
+    "name":"project-1-hello-world",
+    "version":"1.0.0",
+    "description":"A simple Hello World full-stack app.",
+    "main":"server.js",
+    "scripts":{"start":"node server.js"},
+    "keywords":[],"author":"Manus AI",
+    "license":"ISC",
+    "dependencies":{"express":"^4.21.2"}
+}
