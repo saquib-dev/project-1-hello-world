@@ -69,5 +69,3 @@ Open your web browser and visit `http://localhost:3000`. You'll see the message 
 ## 🤝 Contributing
 
 This is a simple project, but if you have ideas for improvements, feel free to open an issue or submit a pull request!
-
----
