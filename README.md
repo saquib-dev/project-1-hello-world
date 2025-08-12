@@ -6,16 +6,12 @@
 
 This project is a perfect starting point for anyone new to full-stack development. It showcases a simple architecture where a frontend built with plain **HTML**, **CSS**, and **JavaScript** fetches a greeting message from a backend API created using **Node.js** and **Express.js**. It’s a great example of how these two layers work together to deliver content.
 
----
-
 ## 🚀 Features
 
 -   **Backend**: A lightweight **Node.js** server with **Express.js** that exposes a `/api/hello` endpoint.
 -   **Frontend**: A simple webpage that makes an API call and displays the response.
 -   **Static Serving**: Serves the frontend files directly from the Express server.
 -   **Responsive Design**: The simple CSS ensures the app looks good on any screen size.
-
----
 
 ## 🛠️ How to Set Up
 
@@ -57,7 +53,6 @@ npm start
 
 Open your web browser and visit `http://localhost:3000`. You'll see the message "Hello from the backend!" displayed on the page.
 
----
 
 ## 📂 File Structure
 
@@ -71,8 +66,6 @@ project-1-hello-world/
 ├── package.json
 └── README.md
 ```
-
----
 
 ## 🤝 Contributing
 
