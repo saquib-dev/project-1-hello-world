@@ -13,6 +13,19 @@ This project is a perfect starting point for anyone new to full-stack developmen
 -   **Static Serving**: Serves the frontend files directly from the Express server.
 -   **Responsive Design**: The simple CSS ensures the app looks good on any screen size.
 
+## 📂 File Structure
+
+```
+project-1-hello-world/
+├── public/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── server.js
+├── package.json
+└── README.md
+```
+
 ## 🛠️ How to Set Up
 
 Getting this project up and running is quick and easy.
@@ -52,20 +65,6 @@ npm start
 ### **5. View the app**
 
 Open your web browser and visit `http://localhost:3000`. You'll see the message "Hello from the backend!" displayed on the page.
-
-
-## 📂 File Structure
-
-```
-project-1-hello-world/
-├── public/
-│   ├── index.html
-│   ├── style.css
-│   └── script.js
-├── server.js
-├── package.json
-└── README.md
-```
 
 ## 🤝 Contributing
 
