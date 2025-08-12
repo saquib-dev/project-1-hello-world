@@ -56,7 +56,7 @@ npm install
 
 ### **4. Start the server**
 
-Launch the server with the following command. It will run on `http://localhost:3000`.
+Launch the server with the following command. It will run on `http://localhost:786`.
 
 ```bash
 npm start
@@ -64,7 +64,7 @@ npm start
 
 ### **5. View the app**
 
-Open your web browser and visit `http://localhost:3000`. You'll see the message "Hello from the backend!" displayed on the page.
+Open your web browser and visit `http://localhost:786`. You'll see the message "Hello from the backend!" displayed on the page.
 
 ## 🤝 Contributing
 
